@@ -27,7 +27,7 @@ function y = roughset(x)
               y=total/25;
           
           else if(count==5)
-              d=1
+          
              edge=edge-y;
              y=edge/5;
          end
